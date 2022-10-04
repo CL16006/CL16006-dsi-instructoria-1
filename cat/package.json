@@ -1,0 +1,15 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "programa que imita el comportamiento del comando cat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc app.ts && node app.js "
+  },
+  "author": "Fatima del Rosario Calderon Lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.8.2"
+  }
+}
