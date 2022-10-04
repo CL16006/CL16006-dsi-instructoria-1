@@ -8,5 +8,8 @@
     "start": "npx tsc app.ts && node app.js "
   },
   "author": "Fatima del Rosario Calderon Lopez",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.8.2"
+  }
 }
